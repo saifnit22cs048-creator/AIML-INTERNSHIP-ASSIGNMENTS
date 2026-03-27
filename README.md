@@ -1,0 +1,2 @@
+# AIML-INTERNSHIP-ASSIGNMENTS
+AIML Internship Assignments
